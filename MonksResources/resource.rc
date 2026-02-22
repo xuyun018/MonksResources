@@ -2,7 +2,7 @@
 #include <winres.h>
 #include "resource.h"
 
-IDI_MAIN_ICON			ICON	"res/convenience-store.ico"
+IDI_MAIN_ICON			ICON	"res/resources-48.ico"
 
 // sheild win
 
