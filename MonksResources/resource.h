@@ -6,7 +6,7 @@
 
 #define IDBS_COUNT													67
 
-// sheild win
+// shield win
 
 #define IDB_BEARER_QGENERICBEARER_DLL													102
 #define IDB_ICONENGINES_QSVGICON_DLL													103
